@@ -1,7 +1,8 @@
 //class originally created by Caleb Miller and is his own code. Class updated by Stephan Foster.
 package application;
 
-
+//LOOKS GOOD
+//LOOKS LIKE THE FILE CALEB TURNED IN
 
 public abstract class Main {
 	

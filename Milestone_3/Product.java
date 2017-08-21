@@ -1,7 +1,7 @@
 //class originally created by Stephan Foster and is his own code. Class updated by Stephan Foster.
 
 package application;
-
+//NICE.
 public abstract class Product implements Comparable<Product> {
 
 	private String name;
@@ -82,6 +82,9 @@ public abstract class Product implements Comparable<Product> {
 			return false;
 		}
 	}
+	
+	//IDENTICAL TO CALEB'S WORK.  
+	//CORRECT, BUT SHOULD BE INDEPENDENT WORK.
 	//method originally created by Stephan Foster and is his own code.
 	@Override
 	public int compareTo(Product o) {
